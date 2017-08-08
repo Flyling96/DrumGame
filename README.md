@@ -3,15 +3,15 @@
 
 
 ##菜单界面
-![Image text][https://raw.githubusercontent.com/Flyling96/DrumGame/master/%E8%8F%9C%E5%8D%95%E7%95%8C%E9%9D%A2.png]
+![Image text](https://raw.githubusercontent.com/Flyling96/DrumGame/master/%E8%8F%9C%E5%8D%95%E7%95%8C%E9%9D%A2.png)
 
 ##选歌界面
-![Image text][https://raw.githubusercontent.com/Flyling96/DrumGame/master/%E9%80%89%E6%AD%8C%E7%95%8C%E9%9D%A2.png]
+![Image text](https://raw.githubusercontent.com/Flyling96/DrumGame/master/%E9%80%89%E6%AD%8C%E7%95%8C%E9%9D%A2.png)
 
 ##游戏界面
-![Image text][https://raw.githubusercontent.com/Flyling96/DrumGame/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.png]
+![Image text](https://raw.githubusercontent.com/Flyling96/DrumGame/master/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.png)
 
 ##制谱界面
-![Image text][https://raw.githubusercontent.com/Flyling96/DrumGame/master/%E5%88%B6%E8%B0%B1%E7%95%8C%E9%9D%A2.png]
+![Image text](https://raw.githubusercontent.com/Flyling96/DrumGame/master/%E5%88%B6%E8%B0%B1%E7%95%8C%E9%9D%A2.png)
 
 
