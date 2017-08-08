@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "萌风.Plugins", "萌风.Plugins.csproj", "{300A3846-A3CB-F1F8-9A50-45DE9A99AF88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "萌风", "萌风.csproj", "{244D5A3B-2271-8261-9C55-286D308EEF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "萌风.Editor", "萌风.Editor.csproj", "{6377B5A2-E85D-0D95-8A54-439AB7FB4C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300A3846-A3CB-F1F8-9A50-45DE9A99AF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300A3846-A3CB-F1F8-9A50-45DE9A99AF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300A3846-A3CB-F1F8-9A50-45DE9A99AF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300A3846-A3CB-F1F8-9A50-45DE9A99AF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244D5A3B-2271-8261-9C55-286D308EEF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244D5A3B-2271-8261-9C55-286D308EEF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244D5A3B-2271-8261-9C55-286D308EEF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244D5A3B-2271-8261-9C55-286D308EEF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6377B5A2-E85D-0D95-8A54-439AB7FB4C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6377B5A2-E85D-0D95-8A54-439AB7FB4C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6377B5A2-E85D-0D95-8A54-439AB7FB4C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6377B5A2-E85D-0D95-8A54-439AB7FB4C49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
